@@ -1,5 +1,5 @@
-1. Input ProcessorID (NOT workflowID)
-2. Ensure ProcessorID is built for invoice extraction
-3. Start proxy server 'node server.js'
-4. Open index.html in a static browser 'npx serve .'
+1. Start proxy server 'node server.js'
+2. Open index.html in a static browser 'npx serve .'
+3. Input ProcessorID (NOT workflowID)
+4. Ensure ProcessorID is built for invoice extraction
 
